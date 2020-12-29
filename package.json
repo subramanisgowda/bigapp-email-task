@@ -1,0 +1,31 @@
+{
+  "name": "bigapp-email-task",
+  "version": "1.0.0",
+  "description": "Bigapp email scheduling application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "mail_cron":"node Mail_Cron.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subramanisgowda/bigapp-email-task.git"
+  },
+  "author": "Subramani S Gowda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subramanisgowda/bigapp-email-task/issues"
+  },
+  "homepage": "https://github.com/subramanisgowda/bigapp-email-task#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.4.17",
+    "sendgrid": "^5.2.3",
+    "validator": "^13.5.2"
+  }
+}

@@ -1,2 +1,2 @@
 # bigapp-email-task
-Bigapp email scheduling application
+Build a simple API to schedule emails and send them

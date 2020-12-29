@@ -13,6 +13,35 @@ Simple API to schedule emails and send them, API's we can use to add new schedul
 To start application use **npm run start** command and to schedule use **npm run mail_cron** command
 
 # Project Repository Structure
-![alt text](/screenshots/Repository.png "Description goes here")
+![alt text](/screenshots/Repository.png "Repository Details")
 
 # Screenshots
+
+## Deliverd Email 
+![alt text](/screenshots/Deliverd Mail.png "Description goes here")
+
+**Create Schedule API Response**
+![alt text](/screenshots/Create Schedule API.png "Create Schedule API Response Executed in postman")
+
+**Created Schedule In Database**
+![alt text](/screenshots/Create Schedule API.png "Created Schedule in DataBase")
+
+## Different API Response
+
+**Read Schedules**
+![alt text](/screenshots/Read Schedule.png "Response Executed in postman")
+
+**list Schedules**
+![alt text](/screenshots/List Schedule.png "Response Executed in postman")
+
+**Update Schedules**
+![alt text](/screenshots/Update Schedule.png "Response Executed in postman")
+
+**Delete Schedules**
+![alt text](/screenshots/Delete schedule.png "Response Executed in postman")
+
+**API to list all failed or success Mails**
+![alt text](/screenshots/Get Sent Status.png "Response Executed in postman")
+
+**List of all Mail Sent status either failed or success**
+![alt text](/screenshots/Sent Status DB.png "Response Executed in postman")

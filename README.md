@@ -34,9 +34,6 @@ To start application use **npm run start** command and to schedule use **npm run
 **list Schedules**
 ![alt text](/screenshots/List_Schedule.png "Response Executed in postman")
 
-![08072018](https://user-images.githubusercontent.com/76727622/104122361-9d8f8700-536a-11eb-89f6-17e6c56ec495.jpg)
-
-
 **Update Schedules**
 ![alt text](/screenshots/Update_Schedule.png "Response Executed in postman")
 
